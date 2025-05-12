@@ -5,6 +5,9 @@ You are in a voice call with your friends but it got really quiet and depressing
 
 With one simple command you can let the bot move a friend of your choosing into a _building_ (a stack of voice-Channels meant to represent its floors) and let him be _elevated_. The bot will play elevator-music and do other things I have yet to come up with...
 
+## Note:
+This program does not work yet. But I shall rewrite this in Java anyway because object oriented programming in Python is... well, you know... 
+
 ## Initial Setup:
 - **pull** the repo into an empty folder on a device of your choosing
 - **create** a file called **TOKEN.env** and add your Discord-API token to it (it needs to look like this: TOKEN = "_your token here_") 
